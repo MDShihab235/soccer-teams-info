@@ -1,0 +1,39 @@
+
+.team-info{
+    margin-top: 20px;
+    margin-left: 150px;
+    background-color: rgb(45, 45, 56);
+    color: aliceblue;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+}
+
+.team-detail{
+    width: 350px;
+    margin: 20px;
+    padding:10px;
+    
+}
+
+.description{
+    width: fit-content;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid lightgray;
+}
+
+.social-icon {
+    display:"flex";
+    flex-direction:"row";
+    margin-left:"450px";
+    margin-top:"20px";
+}
+
+.social{
+    margin: 10px;
+}
+
+
