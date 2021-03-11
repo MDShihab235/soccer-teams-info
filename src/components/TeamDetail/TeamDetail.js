@@ -45,11 +45,11 @@ function TeamDetail() {
             
             
             <div className="social-icon" >
-                <a href="" className="social" ><FontAwesomeIcon icon={faTwitterSquare}/></a>
+                <a href="https://www.google.com/" className="social" ><FontAwesomeIcon icon={faTwitterSquare}/></a>
                 
-                <a href="" className="social" ><FontAwesomeIcon icon={faFacebookSquare}/></a>
+                <a href="https://www.google.com/" className="social" ><FontAwesomeIcon icon={faFacebookSquare}/></a>
                 
-                <a href="" className="social" ><FontAwesomeIcon icon={faYoutubeSquare}/></a>
+                <a href="https://www.google.com/" className="social" ><FontAwesomeIcon icon={faYoutubeSquare}/></a>
 
             </div>
 
