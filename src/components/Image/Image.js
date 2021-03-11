@@ -17,7 +17,7 @@ const Image = (props) => {
     
     return (
         <div className="team-image">
-            <img src={greeting}/>
+            <img src={greeting} alt="" />
 
         </div>
     );
