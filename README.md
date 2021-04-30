@@ -7,4 +7,5 @@ my web site name is [Sports craze]
 If you visit my website you know about the specific team detail in a league for soccer game.
 
 This is my website live link: [Sports craze](https://604a48a228312d20fe77c1ce--goofy-roentgen-a6d12a.netlify.app/).
+Used technologies: React.js, bootstrap, HTML, CSS, JavaScript.
 
